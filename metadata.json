@@ -1,0 +1,8 @@
+{
+  "name": "ADI Bharat Verify",
+  "description": "ADI Bharat consumer verification portal with Admin dashboard and AI image editing capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
